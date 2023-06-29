@@ -3,8 +3,8 @@ Developing a system that measures the distance using an ultrasonic sensor and di
 
 ## Software Architecture Layers:
 
-APP - (APP.c)
+APP  (APP.c)
 
-HAL - (LCD + SENSOR)
+HAL  (LCD + SENSOR)
 
 MCAL (GPIO + ICU)
